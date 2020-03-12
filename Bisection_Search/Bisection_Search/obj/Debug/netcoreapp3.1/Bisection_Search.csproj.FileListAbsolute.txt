@@ -1,0 +1,11 @@
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\bin\Debug\netcoreapp3.1\Bisection_Search.exe
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\bin\Debug\netcoreapp3.1\Bisection_Search.deps.json
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\bin\Debug\netcoreapp3.1\Bisection_Search.runtimeconfig.json
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\bin\Debug\netcoreapp3.1\Bisection_Search.runtimeconfig.dev.json
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\bin\Debug\netcoreapp3.1\Bisection_Search.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\bin\Debug\netcoreapp3.1\Bisection_Search.pdb
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\obj\Debug\netcoreapp3.1\Bisection_Search.csprojAssemblyReference.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\obj\Debug\netcoreapp3.1\Bisection_Search.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\obj\Debug\netcoreapp3.1\Bisection_Search.AssemblyInfo.cs
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\obj\Debug\netcoreapp3.1\Bisection_Search.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 9A - C# - Guess My Number Game (Bisection Algorithm)\Bisection_Search\Bisection_Search\obj\Debug\netcoreapp3.1\Bisection_Search.pdb
